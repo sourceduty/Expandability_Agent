@@ -12,7 +12,7 @@ Designed to be both knowledgeable and supportive, the Expandability Agent mainta
 
 #
 
-> Alex: "*This is a new business tool and unique metric.*"
+> Alex: "*This is a new and experimental business tool for a unique business metric.*"
 
 #
 ### Related Links
