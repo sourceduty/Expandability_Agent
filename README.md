@@ -1,4 +1,4 @@
-![Expandability Agent](https://github.com/user-attachments/assets/6a8f869f-9dc4-44f5-bad7-f2a7a9f2bfa3)
+![Expandability Agent](https://github.com/user-attachments/assets/d53173e9-0eee-4070-b3bf-339811a712a7)
 
 > Assistive business expansion advisor.
 
