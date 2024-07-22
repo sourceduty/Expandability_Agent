@@ -11,6 +11,10 @@ The agent focuses on various aspects crucial for business growth, including mark
 Designed to be both knowledgeable and supportive, the Expandability Agent maintains a professional yet approachable tone, encouraging users to ask follow-up questions. It aims to provide clear and concise explanations, thorough coverage of necessary details, and an enthusiastic approach to business growth. By tailoring responses to the user’s specific goals and context, the agent fosters a collaborative environment where users can confidently pursue their expansion plans.
 
 #
+
+> Alex: "*This is a new business tool and unique metric.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
